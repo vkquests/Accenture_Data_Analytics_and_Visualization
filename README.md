@@ -1,8 +1,8 @@
 # Accenture_Data_Analytics_and_Visualization
-Delve into the dynamic world of data analytics and visualization with Navigating Numbers virtual internship. This immersive program offers an in-depth exploration of data essentials, encompassing data cleaning, modeling, visualization, and storytelling.
+Delve into the dynamic world of data analytics and visualization with the Navigating Numbers virtual internship. This immersive program offers an in-depth exploration of data essentials, encompassing data cleaning, modeling, visualization, and storytelling.
 
 ## Introduction
-Social Buzz is a rapidly expanding technology unicorn in need of swift adaptation to its large scale global operations.
+Social Buzz is a rapidly expanding technology unicorn in need of swift adaptation to its large-scale global operations.
 Accenture is conducting a 3-month POC centered on the following objectives:
 + An audit of big data practice
 + Recommendations for a successful IPO
@@ -27,26 +27,32 @@ Read & understood the data model to identify which datasets will be required to 
 Top 5 categories with the largest popularity.
 
 Cleaned the data by:
-+ Removing rows that have values which are missing,
++ Removing rows that have values that are missing,
 + Changing the data type of some values within a column, and
-+ Removing columns which are not relevant to this task.
++ Removing columns that are not relevant to this task.
 
-Created a final data set by merging three tables together : Reaction, Content, & Reaction Types data sets.
+Created a final data set by merging three tables together: Reaction, Content, and Reaction Types data sets.
 Performed data modeling by merging the three data sets, using the VLOOKUP formula.
 Figured out the Top 5 performing categories aggregating the total scores by category, using the SUMIF formula
 
 ## Task 3: Data Visualization & Storytelling
 Brought the data to life and extracted valuable insights for the business. Built a PowerPoint presentation to organize the findings on Social Buzz's content performance. Using PivotTables, created data charts that effectively illustrate the data analysis.
-Some of the interesting insights that was shared include:
+Some of the interesting insights that were shared include:
 
 + How many unique categories are there?
 + How many reactions are there to the most popular category?
 + What was the month with the most posts?
 
 
-![image](https://github.com/vkquests/Accenture_Data_Analytics_and_Visualization/assets/126692346/d60791ae-80f4-46b4-a3df-ee00a3a92ac2)
+![image](https://github.com/vkquests/Accenture_Data_Analytics_and_Visualization/assets/126692346/c6576eb8-dfb9-4ab8-aa93-f1ca235a6689)
 
-![image](https://github.com/vkquests/Accenture_Data_Analytics_and_Visualization/assets/126692346/8dca65c7-1f3e-43c8-a2a8-ac78c02d954d)
+![image](https://github.com/vkquests/Accenture_Data_Analytics_and_Visualization/assets/126692346/160278fe-dd7e-4aa3-9cc9-059060707b1d)
+
+![image](https://github.com/vkquests/Accenture_Data_Analytics_and_Visualization/assets/126692346/182cd998-e8f1-4d25-94f5-2380b29c4a02)
+
+![image](https://github.com/vkquests/Accenture_Data_Analytics_and_Visualization/assets/126692346/6e76f7f6-a5a4-425f-bd20-fb19e5fedb74)
+
+
 
 ![image](https://github.com/vkquests/Accenture_Data_Analytics_and_Visualization/assets/126692346/9a50cee8-5b81-404d-b892-31ec5cdefcef)
 
