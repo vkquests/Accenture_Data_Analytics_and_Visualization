@@ -53,10 +53,3 @@ Some of the interesting insights that were shared include:
 ![image](https://github.com/vkquests/Accenture_Data_Analytics_and_Visualization/assets/126692346/6e76f7f6-a5a4-425f-bd20-fb19e5fedb74)
 
 
-
-![image](https://github.com/vkquests/Accenture_Data_Analytics_and_Visualization/assets/126692346/9a50cee8-5b81-404d-b892-31ec5cdefcef)
-
-![image](https://github.com/vkquests/Accenture_Data_Analytics_and_Visualization/assets/126692346/a3ae48e4-7912-42c3-9ceb-b8c4b77c5364)
-
-
-
